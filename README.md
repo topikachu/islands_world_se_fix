@@ -1,0 +1,1 @@
+Create an islands world on 'Nauvis' only and keep other planets and moons as they are.
